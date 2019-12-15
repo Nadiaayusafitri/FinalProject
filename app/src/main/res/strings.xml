@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="tab1">Lagu Nasional</string>
+    <string name="tab2">Lagu daerah</string>
+  <!--<string name="Indonesia_Raya">
+    <br> Indonesia Tanah Airku </br>
+    <br> Tanah tumpah darahku </br>
+    <br> Disanalah aku berdiri </br>
+    </string>
+
+    <string name="satunusasatubangsa">
+    <br> satu nusa satu bangsa </br>
+    <br> satu bahasa kita </br>
+    <br> tanah air pasti jaya </br>
+    </string>
+
+    <string-array name="judullagu">
+        <item>Indonesia Raya
+
+        </item>
+
+        <item>Satu Nusa Satu Bangsa</item>
+        <item>Bagimu Negeri</item>
+    </string-array>!-->
+</resources>

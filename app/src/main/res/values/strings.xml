@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UAS NAD</string>
+    <string name="mulai">Mulai</string>
+    <string name="second">Second Activity</string>
+    <string name="third">Third Activity</string>
+    <string name="fourth">fourth Activity</string>
+    <string name="tab_text_1">Lagu Nasional</string>
+    <string name="tab_text_2">Lagu Daerah</string>
+    <string name="tab_text_3">Rating</string>
+    <string name="name">Nama</string>
+    <string name="comment">Comment</string>
+    <string name="aplikasi">Is This Application Interesting ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="send">Send</string>
+    <string name="order_summary_yes">Yes ? </string>
+    <string name="order_summary_no">NO ?</string>
+    <string name="order_summary_name">Nama : <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_question">Comment: <xliff:g example="Amy" id="question">%s</xliff:g></string>
+    <string name="order_summary_email_subject">Komentar Pengguna </string>
+
+</resources>
